@@ -9,7 +9,7 @@ public class punto4 {
 		int i = 1;
 		int j = 0;
 		
-		if(i==j) {
+		if(i=j) {
 			System.out.println("son temrinos iguales");
 		}
 
@@ -25,6 +25,8 @@ public class punto4 {
 	
 		
 		// ERROR DE EXCEPCION 
+		
+		// no marca error al ejecutar ya que ningun numero peude ser dividido entre 0
 		
 		int dividendo = 5;
 		int divisor = 0;
