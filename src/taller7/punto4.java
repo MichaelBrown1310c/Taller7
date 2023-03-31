@@ -34,6 +34,6 @@ public class punto4 {
 		
 	System.out.println(resultado);
 	 
-
+//
   }
 }
